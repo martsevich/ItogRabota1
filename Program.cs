@@ -18,4 +18,15 @@ void SaveInArray2(string[] array1, string[] array2)
         j++;
     }
 }
-
+void PrintArray(string[] array)
+{
+    for (int j = 0; j < array.Length; j++)
+    {
+        Console.Write($"{array[j]}" + ' ');
+    }
+    Console.WriteLine();
+}
+SaveInArray2(array1, array2);
+Console.Clear();
+PrintArray(array1);
+PrintArray(array2);
