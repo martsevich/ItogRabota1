@@ -3,7 +3,7 @@
 // Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
 // При решение не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами
 
-string[] array1 = new string[] { "hello","2","world",":-)","7t>" };
+string[] array1 = new string[] { "hello","2","world",":-)","7t>", "hi" };
 string[] array2 = new string[array1.Length];
 
 void SaveInArray2(string[] array1, string[] array2)

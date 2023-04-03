@@ -1,0 +1,15 @@
+D:\Git\Itog rabota\TASK\bin\Debug\net7.0\TASK.exe
+D:\Git\Itog rabota\TASK\bin\Debug\net7.0\TASK.deps.json
+D:\Git\Itog rabota\TASK\bin\Debug\net7.0\TASK.runtimeconfig.json
+D:\Git\Itog rabota\TASK\bin\Debug\net7.0\TASK.dll
+D:\Git\Itog rabota\TASK\bin\Debug\net7.0\TASK.pdb
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.csproj.AssemblyReference.cache
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.AssemblyInfoInputs.cache
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.AssemblyInfo.cs
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.csproj.CoreCompileInputs.cache
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.dll
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\refint\TASK.dll
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.pdb
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\TASK.genruntimeconfig.cache
+D:\Git\Itog rabota\TASK\obj\Debug\net7.0\ref\TASK.dll
